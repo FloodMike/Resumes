@@ -4,7 +4,7 @@
     
     // This will determine if the script should use functions to fill in data or retrieve data from a database
     // If there is a database set up, setting this to false would be preferable
-    $useFx = false;
+    $useFx = true;
     
     $nameFirst = (empty($_GET['fname']) ? "Michael" : $_GET['fname']);
     $nameLast = (empty($_GET['lname']) ? "Flood" : $_GET['lname']);
