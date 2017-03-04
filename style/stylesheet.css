@@ -25,12 +25,13 @@
 .skill {
     color: #00B0F0;
     width: 75%;
+    font-size: 16px;
 }
 
 .skill_detail {
     color: grey;
     font-style: italic;
-    font-size: 16px;
+    font-size: 14px;
     width: 65%;
 }
 
@@ -53,4 +54,5 @@ a:hover {color:#00B0F0;}  /* mouse over link */
 {
     width: 90%;
     text-align: justify;
+    font-size: 14px;
 }
